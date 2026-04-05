@@ -29,6 +29,7 @@
 + A. **Empty** Faith [(v14,17)](# "ref")
 + B. **False** Testimony [(v15)](# "ref")
 + C. **Fearful** Destiny [(v17-19)](# "ref")
+
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -53,6 +54,7 @@ your faith is **futile**
 + A. Empty Faith
 + B. **False Testimony**
 + C. Fearful Destiny
+
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -75,6 +77,7 @@ that he raised Christ
 + A. Empty Faith
 + B. False Testimony
 + C. **Fearful Destiny**
+
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -123,6 +126,7 @@ we are of all people most to be **pitied**.
 + A. Christ the **Last Man** [(v20-22)](# "ref")
 + B. The **Order** of the End [(v23-26)](# "ref")
 + C. That God May Be **All** [(v27-28)](# "ref")
+
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -178,6 +182,7 @@ so also in Christ shall **all** be made **alive**.
 + A. Christ the Last Man [(v20-22)](# "ref")
 + B. **The Order of the End** [(v23-26)](# "ref")
 + C. That God May Be All [(v27-28)](# "ref")
+
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -250,6 +255,7 @@ The **last** enemy to be destroyed is **death**.
 + A. Christ the Last Man [(v20-22)](# "ref")
 + B. The Order of the End [(v23-26)](# "ref")
 + C. **That God May Be All** [(v27-28)](# "ref")
+
 <!-- .element: class="r-fit-text" -->
 
 ---
