@@ -5,7 +5,12 @@
 [Hans Ott](https://unsplash.com/photos/Tun6jr3D0Jg "caption")
 
 >>>
-+ 
++ when first immig. to CA 
+  + did sth really **foolish**:
++ never signed up for **MSP**
+  + young, single, never needed Dr
++ **ignoring** health issues
+  + doesn't make me **immune**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -23,6 +28,11 @@
 1. If Christ Has **Not** Been Raised [(v12-19)](# "ref")
 2. Since Christ **Has** Been Raised [(v20-28)](# "ref")
 
+>>>
++ **Centrality** of resurr. in gospel
++ **Consequence** of resurr. to world
+  + preview of **end of age**
+
 ---
 <!-- .slide: class="outline" -->
 ## 1. If Christ Has Not <br/> Been Raised
@@ -31,6 +41,13 @@
 + C. **Fearful** Destiny [(v17-19)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ 1st: **hypothetical**, subjunctive
+  + thought experiment: 
++ what if there is no **life** after death?
+  + could we still be Christians?
++ 3 consequences
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -46,7 +63,11 @@ your faith is **futile**
 
 >>>
 + "vain": empty, void of content
-+ "futile": without purpose, no point to it
+  + "futile": w/o purpose, no point 
++ Could I be just **cultural** Chr?
+  + do good, be gracious 
++ not for any future reward,
+  + only one life to live
 
 ---
 <!-- .slide: class="outline" -->
@@ -56,6 +77,9 @@ your faith is **futile**
 + C. Fearful Destiny
 
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ preaching/teaching from Bible
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -70,6 +94,9 @@ that he raised Christ
 
 >>>
 + **liars**: false / deceptive testimony
++ Scrip also clearly **teaches** resurr.
++ So Bible is well-meaning **fable**?
+  + "new life" is only metaphorical?
 
 ---
 <!-- .slide: class="outline" -->
@@ -79,6 +106,9 @@ that he raised Christ
 + C. **Fearful Destiny**
 
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ any hope for the future?
 
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
@@ -91,7 +121,7 @@ in Christ have perished.
 [Neil Thomas](https://unsplash.com/photos/bSYRuzEaT5k "caption")
 
 >>>
-+ not just **emptiness** after death
++ not just **emptiness** after death:
   + cannot **avoid** God's judgment
 + stuck in our **sins**
   + w/o hope of **redemption**
@@ -119,6 +149,15 @@ we are of all people most to be **pitied**.
 ## The Firstfruits [(1 Cor 15)](# "ref")
 1. If Christ Has Not Been Raised [(v12-19)](# "ref")
 2. **Since Christ Has Been Raised** [(v20-28)](# "ref")
+
+>>>
++ close thought experiment 
+  + **centrality** of resurr to gospel
++ much **evidence** in/out Bible for resurr.
+  + epistem: what do I find **convincing**
++ **Consequences** of resurr.
+  + for **world** / world powers, and
+  + esp those who **belong** to Chr
 
 ---
 <!-- .slide: class="outline" -->
