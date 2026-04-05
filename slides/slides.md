@@ -25,10 +25,11 @@
 
 ---
 <!-- .slide: class="outline" -->
-## If Christ Has Not Been Raised
-1. **Empty** Faith [(v14,17)](# "ref")
-2. **False** Testimony [(v15)](# "ref")
-3. **Fearful** Destiny [(v17-19)](# "ref")
+## 1. If Christ Has Not <br/> Been Raised
++ A. **Empty** Faith [(v14,17)](# "ref")
++ B. **False** Testimony [(v15)](# "ref")
++ C. **Fearful** Destiny [(v17-19)](# "ref")
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -48,10 +49,11 @@ your faith is **futile**
 
 ---
 <!-- .slide: class="outline" -->
-## If Christ Has Not Been Raised
-1. Empty Faith
-2. **False Testimony**
-3. Fearful Destiny
+## If Christ Has Not <br/> Been Raised
++ A. Empty Faith
++ B. **False Testimony**
++ C. Fearful Destiny
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -69,10 +71,11 @@ that he raised Christ
 
 ---
 <!-- .slide: class="outline" -->
-## If Christ Has Not Been Raised
-1. Empty Faith
-2. False Testimony
-3. **Fearful Destiny**
+## If Christ Has Not <br/> Been Raised
++ A. Empty Faith
++ B. False Testimony
++ C. **Fearful Destiny**
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
@@ -116,10 +119,11 @@ we are of all people most to be **pitied**.
 
 ---
 <!-- .slide: class="outline" -->
-## Since Christ Has Been Raised
-1. Christ the **Last Man** [(v20-22)](# "ref")
-2. The **Order** of the End [(v23-26)](# "ref")
-3. That God May Be **All** [(v27-28)](# "ref")
+## 2. Since Christ <br/> Has Been Raised
++ A. Christ the **Last Man** [(v20-22)](# "ref")
++ B. The **Order** of the End [(v23-26)](# "ref")
++ C. That God May Be **All** [(v27-28)](# "ref")
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
@@ -170,10 +174,11 @@ so also in Christ shall **all** be made **alive**.
 
 ---
 <!-- .slide: class="outline" -->
-## Since Christ Has Been Raised
-1. Christ the Last Man [(v20-22)](# "ref")
-2. **The Order of the End** [(v23-26)](# "ref")
-3. That God May Be All [(v27-28)](# "ref")
+## Since Christ <br/> Has Been Raised
++ A. Christ the Last Man [(v20-22)](# "ref")
++ B. **The Order of the End** [(v23-26)](# "ref")
++ C. That God May Be All [(v27-28)](# "ref")
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
@@ -241,10 +246,11 @@ The **last** enemy to be destroyed is **death**.
 
 ---
 <!-- .slide: class="outline" -->
-## Since Christ Has Been Raised
-1. Christ the Last Man [(v20-22)](# "ref")
-2. The Order of the End [(v23-26)](# "ref")
-3. **That God May Be All** [(v27-28)](# "ref")
+## Since Christ <br/> Has Been Raised
++ A. Christ the Last Man [(v20-22)](# "ref")
++ B. The Order of the End [(v23-26)](# "ref")
++ C. **That God May Be All** [(v27-28)](# "ref")
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> -->
