@@ -3,7 +3,10 @@
   "repository": "sermons/firstfruits",
   "description": "A template for Reveal.js-based presentations",
   "keywords": [
-    "slides"
+    "sermon",
+    "1corinthians",
+    "easter",
+    "eschatology"
   ],
   "version": "2.5.18",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
