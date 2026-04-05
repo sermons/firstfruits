@@ -1,6 +1,6 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
+  "name": "@sermons/firstfruits",
+  "repository": "sermons/firstfruits",
   "description": "A template for Reveal.js-based presentations",
   "keywords": [
     "slides"
@@ -9,10 +9,10 @@
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "firstfruits.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "22bc761ffc97809b"
+      "id": "2e62781efca8d06e"
     },
     "git": {
       "name": "Sean Ho",
@@ -20,14 +20,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2026-04-05",
         "duration": 0
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.1",
     "css": [
